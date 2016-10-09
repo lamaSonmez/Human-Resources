@@ -1,0 +1,184 @@
+c:\users\sarc-12\documents\visual studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\HummanResorser.exe.config
+c:\users\sarc-12\documents\visual studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\HummanResorser.exe
+c:\users\sarc-12\documents\visual studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\HummanResorser.pdb
+c:\users\sarc-12\documents\visual studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Properties.Resources.resources
+c:\users\sarc-12\documents\visual studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.RibbonForm1.resources
+c:\users\sarc-12\documents\visual studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.csproj.GenerateResource.Cache
+c:\users\sarc-12\documents\visual studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.exe
+c:\users\sarc-12\documents\visual studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.pdb
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.TextBoxForInationlNumber.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.IdVitel.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.DataGraidVidews.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.DatagridTextIdNationl.resources
+C:\Users\sarc-12\documents\visual studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.RibbonForm2.resources
+C:\Users\sarc-12\documents\visual studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Corser.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.EngerseMissin.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Premision.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.order.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Options.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.DataOrderWait.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.EditTame.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CoresEditAdder.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.TeamShowAll.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Form1.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderTameType.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderTeamName.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderNameForTeam.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderCouresFor.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SerchNameBynameRetu.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CoureesExcl.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Login.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.DeplcatNameShow.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SelectTypeSerchCorres.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SerchAdva.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SelectTypeJop.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\HummanResorser.exe.manifest
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\HummanResorser.application
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.TrustInfo.xml
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.exe.manifest
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.application
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SelectInformationDate.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SelectInfoByNameSerch.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderTypeCoures.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Editing.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.TAMEditingForDate.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Test.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderJop.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderWereType.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\LodingWaiting.baml
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\LodingWaiting.g.cs
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser_Content.g.cs
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser_MarkupCompile.cache
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.g.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Loding.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.WereDeliveryEditAdder.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CvAdder.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CVadderStudy.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CVadderTeam.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CV.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CVAdderExFile.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AddScil.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SeliAdderForm.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderHaveSciles.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.GetDateFrom.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.GetDateByID.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.FixErorrNational.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderCVOuter.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderCvINer.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderForTeam.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.csprojResolveAssemblyReference.cache
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SelectTeamForAdvSerch.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.InformationOfdateGet.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AssingDateGetWebSite.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AssisngTeamVitl.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.DetalsDataVitelAssing.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.IDPrinter.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.ShowAllIteam.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.importAllItems.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.newQustion.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SetQustionInDataBase.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderAssing.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AssingNew.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.UserAndNameAdderingToWebSite.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AboutBox1.resources
+C:\Users\sarc-12\Documents\Visual Studio 2013\Projects\HummanResorser\HummanResorser\obj\Debug\HummanResorser.IDCartOut.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\bin\Debug\HummanResorser.exe.config
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.exe
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.pdb
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.csprojResolveAssemblyReference.cache
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\LodingWaiting.baml
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\LodingWaiting.g.cs
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser_Content.g.cs
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser_MarkupCompile.cache
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.g.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AboutBox1.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.IDCartOut.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.UserAndNameAdderingToWebSite.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderAssing.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderCouresFor.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AssingNew.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.IDPrinter.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.importAllItems.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.newQustion.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SetQustionInDataBase.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.ShowAllIteam.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.InformationOfdateGet.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AssingDateGetWebSite.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AssisngTeamVitl.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderCvINer.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderHaveSciles.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderJop.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderNameForTeam.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderTameType.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderTeamName.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderTypeCoures.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderWereType.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AddScil.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CoureesExcl.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CVAdderExFile.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CVadderStudy.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CVadderTeam.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CV.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CvAdder.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderCVOuter.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.DeplcatNameShow.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Editing.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.AdderForTeam.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.FixErorrNational.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Form1.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.GetDateByID.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.GetDateFrom.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Loding.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Login.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SelectInfoByNameSerch.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SelectInformationDate.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SelectTeamForAdvSerch.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SelectTypeJop.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SelectTypeSerchCorres.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SeliAdderForm.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SerchAdva.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.SerchNameBynameRetu.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.TAMEditingForDate.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.TeamShowAll.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Corser.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.DataGraidVidews.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.DatagridTextIdNationl.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.DataOrderWait.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.EditTame.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.EngerseMissin.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.IdVitel.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Options.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.order.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Premision.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Properties.Resources.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.CoresEditAdder.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.RibbonForm1.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.RibbonForm2.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.Test.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.TextBoxForInationlNumber.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.DetalsDataVitelAssing.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.WereDeliveryEditAdder.resources
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.csproj.GenerateResource.Cache
+D:\SARC\HummanResorser\HummanResorser\HummanResorser\obj\Debug\HummanResorser.TrustInfo.xml

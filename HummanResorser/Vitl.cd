@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HummanResorser.Vitl">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="HummanResorser.Vitl.vitl" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class\Vitl.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ECiAKAAACACIA62QIQQOBgBgECewwYAAApBAKAEEIwI=</HashCode>
+      <FileName>Class\Vitl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.PermsissnAndScurte">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAEAAAAAFAAAIAACAAEAA=</HashCode>
+      <FileName>Class\PermsissnAndScurte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.Team">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="HummanResorser.Team.EnumTeam" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class\Team.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAgAAEAAEAMIAEIQQAAAEEAig=</HashCode>
+      <FileName>Class\Team.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.WereDelivery">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAiAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAgA=</HashCode>
+      <FileName>Class\WereDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.NameTeam">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAgAAAAAAAAAAEAAAAAAgQCAAEEAiA=</HashCode>
+      <FileName>Class\NameTeam.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.TypeofCouress">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAoQAAAEEQiA=</HashCode>
+      <FileName>Class\TypeofCouress.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.WereType">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAgAAACEEAgA=</HashCode>
+      <FileName>Class\WereType.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.Jop">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAEAgAAIAgQAAAEEAyA=</HashCode>
+      <FileName>Class\Jop.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.Acess">
+    <Position X="17.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAQAAAAAAAAAQAAACAAAAAAAAAgA=</HashCode>
+      <FileName>Class\Acess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.Couress">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="HummanResorser.Couress.EnumCouress" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class\Couress.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEABAAAAAAIAAAQAAAAEAEQAAAkAIIAAAAQAAAUEBiA=</HashCode>
+      <FileName>Class\Couress.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.Tring">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAgA=</HashCode>
+      <FileName>Class\Tring.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.NameOfCouress">
+    <Position X="3" Y="7.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAQAgAAAAAAgAFAACACIgQAAQEEAmA=</HashCode>
+      <FileName>Class\NameOfCouress.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.NameTeamType">
+    <Position X="2.5" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAgQAAAEEAiA=</HashCode>
+      <FileName>Class\NameTeamType.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.Valuationname">
+    <Position X="15.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAgA=</HashCode>
+      <FileName>Class\Valuationname.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.ValuationClass">
+    <Position X="15.25" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAQAAAAAAAICAAAAAQAAAAAAEAAAACAAAEAAgA=</HashCode>
+      <FileName>Class\ValuationClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.systemPermtion">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\systemPermtion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.systemPermtionObject">
+    <Position X="19.25" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAACAAAAAAAAAAAAAAAAgI=</HashCode>
+      <FileName>Class\systemPermtionObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.typeOfOrder">
+    <Position X="21.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Class\typeOfOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.orderClass">
+    <Position X="21.75" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAgAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQgA=</HashCode>
+      <FileName>Class\orderClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.EngerseMissinType">
+    <Position X="26" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\EngerseMissinType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.EngerseMissinTypeObject">
+    <Position X="28" Y="1" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Class\EngerseMissinTypeObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.EngerseMissinNAme">
+    <Position X="26" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>Class\EngerseMissinNAme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.EngerseMissinClass">
+    <Position X="26" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAQEAAgA=</HashCode>
+      <FileName>Class\EngerseMissinClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.DataGet">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAEAAAAAAAAAAAEEAAA=</HashCode>
+      <FileName>DataGet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.ErrorClass">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ErrorClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.ClassDataGridViewDo">
+    <Position X="7.5" Y="7.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gAADAQAAAAAIAgAoAgCIAACGAAAAACAAEAAAAAAAAEA=</HashCode>
+      <FileName>ClassDataGridViewDo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HummanResorser.CV_Study">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAQAAAAAAAAgABAAAEAAAAAAgQAAgEEAiA=</HashCode>
+      <FileName>Cv\CV_Study.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.CV_Info">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkIAQAAAgAAIACCAAAAAACAAEAAAABAIAAAAEEAgA=</HashCode>
+      <FileName>Cv\CV_Info.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.CvTeamNeed">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAIAAAAAAAAAEAAAAAAgQAAAEEAiA=</HashCode>
+      <FileName>Cv\CvTeamNeed.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.Scileis">
+    <Position X="3" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAQAAAAAAAAAEEAgA=</HashCode>
+      <FileName>Class\Scileis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HummanResorser.HaveScil">
+    <Position X="5.5" Y="9.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAEAAEEAgA=</HashCode>
+      <FileName>Cv\HaveScil.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="HummanResorser.DataBase">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAEEAAA=</HashCode>
+      <FileName>Class\DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HummanResorser.IaddName">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAACA=</HashCode>
+      <FileName>IaddName.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HummanResorser.IAdderTogrid">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAdderTogrid.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

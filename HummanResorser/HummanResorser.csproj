@@ -1,0 +1,841 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6B433649-48B9-4007-B3B0-9D9E6C61AF26}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HummanResorser</RootNamespace>
+    <AssemblyName>HummanResorser</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>H:\a\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LOGO1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C9612F4B9D15A95341415E057F50774E6AF4CD58</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>HummanResorser_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar.Keyboard, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar.Layout, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar.Schedule, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar.SuperGrid, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.Instrumentation, Version=12.1.0.0, Culture=neutral, PublicKeyToken=bc4a9d761ea44ef0, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.TreeGX, Version=12.1.0.0, Culture=neutral, PublicKeyToken=cfcbd7476b2389d1, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Expression.Drawing, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDCartOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IDCartOut.Designer.cs">
+      <DependentUpon>IDCartOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VitelAssing\DateBaseClass\UserNameGetWebSite.cs" />
+    <Compile Include="VitelAssing\UserAndNameAdderingToWebSite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VitelAssing\UserAndNameAdderingToWebSite.Designer.cs">
+      <DependentUpon>UserAndNameAdderingToWebSite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VitelAssing\AdderAssing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VitelAssing\AdderAssing.Designer.cs">
+      <DependentUpon>AdderAssing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdderCouresFor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdderCouresFor.Designer.cs">
+      <DependentUpon>AdderCouresFor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssingNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssingNew.Designer.cs">
+      <DependentUpon>AssingNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDPrinter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IDPrinter.Designer.cs">
+      <DependentUpon>IDPrinter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExilFile\importAllItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExilFile\importAllItems.Designer.cs">
+      <DependentUpon>importAllItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VitelAssing\newQustion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VitelAssing\newQustion.Designer.cs">
+      <DependentUpon>newQustion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VitelAssing\DateBaseClass\Qustiones.cs" />
+    <Compile Include="VitelAssing\SetQustionInDataBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VitelAssing\SetQustionInDataBase.Designer.cs">
+      <DependentUpon>SetQustionInDataBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VitelAssing\DateBaseClass\Valuation.cs" />
+    <Compile Include="VitelAssing\DateBaseClass\ValuationForm.cs" />
+    <Compile Include="VitelAssing\DateBaseClass\Valuationname.cs" />
+    <Compile Include="VitelAssing\DateBaseClass\vitelAssingInformation.cs" />
+    <Compile Include="whereDelv\ShowAllIteam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="whereDelv\ShowAllIteam.Designer.cs">
+      <DependentUpon>ShowAllIteam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VitelAssing\DateBaseClass\AsncyGetInformation.cs" />
+    <Compile Include="VitelAssing\DownloadDataFromWebCliend.cs" />
+    <Compile Include="VitelAssing\InformationOfdateGet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VitelAssing\InformationOfdateGet.Designer.cs">
+      <DependentUpon>InformationOfdateGet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VitelAssing\DetalsDataVitelAssing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VitelAssing\DetalsDataVitelAssing.Designer.cs">
+      <DependentUpon>DetalsDataVitelAssing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VitelAssing\AssingDateGetWebSite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VitelAssing\AssingDateGetWebSite.Designer.cs">
+      <DependentUpon>AssingDateGetWebSite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VitelAssing\AssisngTeamVitl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VitelAssing\AssisngTeamVitl.Designer.cs">
+      <DependentUpon>AssisngTeamVitl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExilFile\AdderForTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExilFile\AdderForTeam.Designer.cs">
+      <DependentUpon>AdderForTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cv\AdderCvINer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cv\AdderCvINer.Designer.cs">
+      <DependentUpon>AdderCvINer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cv\AdderHaveSciles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cv\AdderHaveSciles.Designer.cs">
+      <DependentUpon>AdderHaveSciles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdderJop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdderJop.Designer.cs">
+      <DependentUpon>AdderJop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Team\AdderNameForTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Team\AdderNameForTeam.Designer.cs">
+      <DependentUpon>AdderNameForTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Team\AdderTameType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Team\AdderTameType.Designer.cs">
+      <DependentUpon>AdderTameType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Team\AdderTeamName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Team\AdderTeamName.Designer.cs">
+      <DependentUpon>AdderTeamName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdderTypeCoures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdderTypeCoures.Designer.cs">
+      <DependentUpon>AdderTypeCoures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdderWereType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdderWereType.Designer.cs">
+      <DependentUpon>AdderWereType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddScil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddScil.Designer.cs">
+      <DependentUpon>AddScil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassDataGridViewDo.cs" />
+    <Compile Include="Class\ClassConvert.cs" />
+    <Compile Include="Class\IGenraterDateCommandQueryDateBase.cs" />
+    <Compile Include="Class\MegBox.cs" />
+    <Compile Include="Class\ParamterrMakeSql.cs" />
+    <Compile Include="Class\Sqldatabasethrding.cs" />
+    <Compile Include="Class\Tring.cs" />
+    <Compile Include="Class\Acess.cs" />
+    <Compile Include="Class\Couress.cs" />
+    <Compile Include="Class\DataBase.cs" />
+    <Compile Include="Class\Jop.cs" />
+    <Compile Include="Class\NameOfCouress.cs" />
+    <Compile Include="Team\NameTeam.cs" />
+    <Compile Include="Class\PermsissnAndScurte.cs" />
+    <Compile Include="Team\Team.cs" />
+    <Compile Include="Class\TypeofCouress.cs" />
+    <Compile Include="Class\Vitl.cs" />
+    <Compile Include="whereDelv\WereDelivery.cs" />
+    <Compile Include="whereDelv\WereType.cs" />
+    <Compile Include="CoureesExcl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoureesExcl.Designer.cs">
+      <DependentUpon>CoureesExcl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cv\CVAdderExFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cv\CVAdderExFile.Designer.cs">
+      <DependentUpon>CVAdderExFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cv\CVadderStudy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cv\CVadderStudy.Designer.cs">
+      <DependentUpon>CVadderStudy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cv\CVadderTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cv\CVadderTeam.Designer.cs">
+      <DependentUpon>CVadderTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cv\CV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cv\CV.Designer.cs">
+      <DependentUpon>CV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cv\CvAdder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cv\CvAdder.Designer.cs">
+      <DependentUpon>CvAdder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cv\CvTeamNeed.cs" />
+    <Compile Include="Cv\CV_Info.cs" />
+    <Compile Include="Cv\CV_Out.cs" />
+    <Compile Include="Cv\CV_Study.cs" />
+    <Compile Include="Cv\AdderCVOuter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cv\AdderCVOuter.Designer.cs">
+      <DependentUpon>AdderCVOuter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeplcatNameShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeplcatNameShow.Designer.cs">
+      <DependentUpon>DeplcatNameShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editing.Designer.cs">
+      <DependentUpon>Editing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FixErorrNational.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FixErorrNational.Designer.cs">
+      <DependentUpon>FixErorrNational.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForGetDataEx.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ForGetDataEx.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cv\HaveScil.cs" />
+    <Compile Include="GetDateByID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetDateByID.Designer.cs">
+      <DependentUpon>GetDateByID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetDateFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetDateFrom.Designer.cs">
+      <DependentUpon>GetDateFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loding.Designer.cs">
+      <DependentUpon>Loding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LodingWaiting.xaml.cs">
+      <DependentUpon>LodingWaiting.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cv\Scileis.cs" />
+    <Compile Include="SelectInfoByNameSerch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectInfoByNameSerch.Designer.cs">
+      <DependentUpon>SelectInfoByNameSerch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectInformationDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectInformationDate.Designer.cs">
+      <DependentUpon>SelectInformationDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectTeamForAdvSerch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectTeamForAdvSerch.Designer.cs">
+      <DependentUpon>SelectTeamForAdvSerch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectTypeJop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectTypeJop.Designer.cs">
+      <DependentUpon>SelectTypeJop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectTypeSerchCorres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectTypeSerchCorres.Designer.cs">
+      <DependentUpon>SelectTypeSerchCorres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeliAdderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeliAdderForm.Designer.cs">
+      <DependentUpon>SeliAdderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SerchAdva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SerchAdva.Designer.cs">
+      <DependentUpon>SerchAdva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SerchNameBynameRetu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SerchNameBynameRetu.Designer.cs">
+      <DependentUpon>SerchNameBynameRetu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TAMEditingForDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TAMEditingForDate.Designer.cs">
+      <DependentUpon>TAMEditingForDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamShowAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamShowAll.Designer.cs">
+      <DependentUpon>TeamShowAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Corser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Corser.Designer.cs">
+      <DependentUpon>Corser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataGet.cs" />
+    <Compile Include="DataGraidVidews.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DataGraidVidews.Designer.cs">
+      <DependentUpon>DataGraidVidews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatagridTextIdNationl.cs" />
+    <Compile Include="DatagridTextIdNationl.Designer.cs">
+      <DependentUpon>DatagridTextIdNationl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOrderWait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOrderWait.Designer.cs">
+      <DependentUpon>DataOrderWait.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditTame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditTame.Designer.cs">
+      <DependentUpon>EditTame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EngerseMissin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EngerseMissin.Designer.cs">
+      <DependentUpon>EngerseMissin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\EngerseMissinClass.cs" />
+    <Compile Include="Class\EngerseMissinNAme.cs" />
+    <Compile Include="Class\EngerseMissinType.cs" />
+    <Compile Include="Class\EngerseMissinTypeObject.cs" />
+    <Compile Include="ErrorClass.cs" />
+    <Compile Include="IAdderTogrid.cs" />
+    <Compile Include="IaddName.cs" />
+    <Compile Include="IdVitel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IdVitel.Designer.cs">
+      <DependentUpon>IdVitel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Team\NameTeamType.cs" />
+    <Compile Include="Options\Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Options\Options.Designer.cs">
+      <DependentUpon>Options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order.Designer.cs">
+      <DependentUpon>order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\orderClass.cs" />
+    <Compile Include="Premision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Premision.Designer.cs">
+      <DependentUpon>Premision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CoresEditAdder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoresEditAdder.Designer.cs">
+      <DependentUpon>CoresEditAdder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RibbonForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RibbonForm1.Designer.cs">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RibbonForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RibbonForm2.Designer.cs">
+      <DependentUpon>RibbonForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\systemPermtion.cs" />
+    <Compile Include="Class\systemPermtionObject.cs" />
+    <Compile Include="Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test.Designer.cs">
+      <DependentUpon>Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextBoxForInationlNumber.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TextBoxForInationlNumber.Designer.cs">
+      <DependentUpon>TextBoxForInationlNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\typeOfOrder.cs" />
+    <Compile Include="Class\ValuationClass.cs" />
+    <Compile Include="WereDeliveryEditAdder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WereDeliveryEditAdder.Designer.cs">
+      <DependentUpon>WereDeliveryEditAdder.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IDCartOut.resx">
+      <DependentUpon>IDCartOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VitelAssing\UserAndNameAdderingToWebSite.resx">
+      <DependentUpon>UserAndNameAdderingToWebSite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VitelAssing\AdderAssing.resx">
+      <DependentUpon>AdderAssing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdderCouresFor.resx">
+      <DependentUpon>AdderCouresFor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssingNew.resx">
+      <DependentUpon>AssingNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IDPrinter.resx">
+      <DependentUpon>IDPrinter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExilFile\importAllItems.resx">
+      <DependentUpon>importAllItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VitelAssing\newQustion.resx">
+      <DependentUpon>newQustion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VitelAssing\SetQustionInDataBase.resx">
+      <DependentUpon>SetQustionInDataBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="whereDelv\ShowAllIteam.resx">
+      <DependentUpon>ShowAllIteam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VitelAssing\InformationOfdateGet.resx">
+      <DependentUpon>InformationOfdateGet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VitelAssing\AssingDateGetWebSite.resx">
+      <DependentUpon>AssingDateGetWebSite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VitelAssing\AssisngTeamVitl.resx">
+      <DependentUpon>AssisngTeamVitl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cv\AdderCvINer.resx">
+      <DependentUpon>AdderCvINer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cv\AdderHaveSciles.resx">
+      <DependentUpon>AdderHaveSciles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdderJop.resx">
+      <DependentUpon>AdderJop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Team\AdderNameForTeam.resx">
+      <DependentUpon>AdderNameForTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Team\AdderTameType.resx">
+      <DependentUpon>AdderTameType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Team\AdderTeamName.resx">
+      <DependentUpon>AdderTeamName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdderTypeCoures.resx">
+      <DependentUpon>AdderTypeCoures.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdderWereType.resx">
+      <DependentUpon>AdderWereType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddScil.resx">
+      <DependentUpon>AddScil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoureesExcl.resx">
+      <DependentUpon>CoureesExcl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cv\CVAdderExFile.resx">
+      <DependentUpon>CVAdderExFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cv\CVadderStudy.resx">
+      <DependentUpon>CVadderStudy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cv\CVadderTeam.resx">
+      <DependentUpon>CVadderTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cv\CV.resx">
+      <DependentUpon>CV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cv\CvAdder.resx">
+      <DependentUpon>CvAdder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cv\AdderCVOuter.resx">
+      <DependentUpon>AdderCVOuter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeplcatNameShow.resx">
+      <DependentUpon>DeplcatNameShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editing.resx">
+      <DependentUpon>Editing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExilFile\AdderForTeam.resx">
+      <DependentUpon>AdderForTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FixErorrNational.resx">
+      <DependentUpon>FixErorrNational.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetDateByID.resx">
+      <DependentUpon>GetDateByID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetDateFrom.resx">
+      <DependentUpon>GetDateFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loding.resx">
+      <DependentUpon>Loding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectInfoByNameSerch.resx">
+      <DependentUpon>SelectInfoByNameSerch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectInformationDate.resx">
+      <DependentUpon>SelectInformationDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectTeamForAdvSerch.resx">
+      <DependentUpon>SelectTeamForAdvSerch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectTypeJop.resx">
+      <DependentUpon>SelectTypeJop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectTypeSerchCorres.resx">
+      <DependentUpon>SelectTypeSerchCorres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeliAdderForm.resx">
+      <DependentUpon>SeliAdderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SerchAdva.resx">
+      <DependentUpon>SerchAdva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SerchNameBynameRetu.resx">
+      <DependentUpon>SerchNameBynameRetu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TAMEditingForDate.resx">
+      <DependentUpon>TAMEditingForDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamShowAll.resx">
+      <DependentUpon>TeamShowAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Corser.resx">
+      <DependentUpon>Corser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataGraidVidews.resx">
+      <DependentUpon>DataGraidVidews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatagridTextIdNationl.resx">
+      <DependentUpon>DatagridTextIdNationl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOrderWait.resx">
+      <DependentUpon>DataOrderWait.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditTame.resx">
+      <DependentUpon>EditTame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EngerseMissin.resx">
+      <DependentUpon>EngerseMissin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdVitel.resx">
+      <DependentUpon>IdVitel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options\Options.resx">
+      <DependentUpon>Options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order.resx">
+      <DependentUpon>order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Premision.resx">
+      <DependentUpon>Premision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="CoresEditAdder.resx">
+      <DependentUpon>CoresEditAdder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RibbonForm1.resx">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RibbonForm2.resx">
+      <DependentUpon>RibbonForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test.resx">
+      <DependentUpon>Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextBoxForInationlNumber.resx">
+      <DependentUpon>TextBoxForInationlNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VitelAssing\DetalsDataVitelAssing.resx">
+      <DependentUpon>DetalsDataVitelAssing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WereDeliveryEditAdder.resx">
+      <DependentUpon>WereDeliveryEditAdder.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ForGetDataEx.xsc">
+      <DependentUpon>ForGetDataEx.xsd</DependentUpon>
+    </None>
+    <None Include="ForGetDataEx.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ForGetDataEx.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ForGetDataEx.xss">
+      <DependentUpon>ForGetDataEx.xsd</DependentUpon>
+    </None>
+    <None Include="HummanResorser_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Vitl.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scream.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow1_nw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow1_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonItem1.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\do.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\do1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LOGO1.ico" />
+    <Content Include="Resources\Hobbis1.xml" />
+    <None Include="Resources\SARC1_Logo...jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="LodingWaiting.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
